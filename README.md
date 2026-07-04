@@ -108,18 +108,6 @@ Works in any modern browser (Chrome, Firefox, Safari, Edge). No server or build 
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push the branch: `git push origin feature/your-feature`
-5. Open a Pull Request
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
