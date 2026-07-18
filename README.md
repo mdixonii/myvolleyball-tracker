@@ -11,9 +11,9 @@ MyVolleyball Tracker was built for youth and recreational volleyball programs th
 
 What it tracks:
 
-Player details: name, jersey number, and court position
-Per-player stats: serves, receptions, ball handling, digs, attacks/kills, and blocks
-Opponent stats for post-game review and future game strategy
+Player details: name, jersey number, and court position<br>
+Per-player stats: serves, receptions, ball handling, digs, attacks/kills, and blocks<br>
+Opponent stats for post-game review and future game strategy<br>
 Home vs. away scoreboard across up to three sets
 
 When a team has more than one volunteer statistician, one can focus on your team while the other tracks the opponent — giving coaches a fuller picture for planning future matchups.
