@@ -16,7 +16,7 @@ Per-player stats: serves, receptions, ball handling, digs, attacks/kills, and bl
 Opponent stats for post-game review and future game strategy<br>
 Home vs. away scoreboard across up to three sets
 
-When a team has more than one volunteer statistician, one can focus on your team while the other tracks the opponent — giving coaches a fuller picture for planning future matchups.
+When a team has more than one statistician, one can focus on your team while the other tracks the opponent — giving coaches a fuller picture for planning future matchups.
 
 ---
 <img width="1172" height="823" alt="myvolleyball-tracker-player-stats" src="https://github.com/user-attachments/assets/e52f10ba-1664-4cc4-b87d-09453908181f" />
